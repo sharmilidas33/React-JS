@@ -1,0 +1,21 @@
+html,body{
+    background-color: rgb(255, 252, 230);
+}
+#news-item{
+    background-color: rgb(251, 224, 129);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6);
+}
+*{
+    font-family: 'SF Pro Display', 'Arial', sans-serif;
+}
+.custom-navbar {
+    background-color: #fbeba7; 
+}
+#heading1{
+    margin: 36px 10px;
+}
+#source{
+    left: 90%;
+    z-index: 1;
+}
+
